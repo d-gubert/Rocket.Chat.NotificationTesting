@@ -1,0 +1,15 @@
+{
+    "id": "2b823b55-ed92-494e-a1ec-8f27aafb5a51",
+    "version": "0.0.1",
+    "requiredApiVersion": "1.0.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Douglas Gubert",
+        "homepage": "https://twitter.com/d_gubert",
+        "support": "https://twitter.com/d_gubert"
+    },
+    "name": "RocketChatNotificationsTesting",
+    "nameSlug": "rocketchatnotificationstesting",
+    "classFile": "RocketChatNotificationsTestingApp.ts",
+    "description": "An App to test the notifications implementation of the Rocket.Chat.Apps-engine"
+}
